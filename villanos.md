@@ -1,5 +1,5 @@
 # villanos
 
 *Dr.doom
-*red skull
-*Dr Herrera 
+*red skull 
+*capitan america
